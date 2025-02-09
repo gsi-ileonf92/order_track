@@ -1,0 +1,42 @@
+[
+    {
+        "id": "rC3EetNgyYPk7yp66cOkbXwNWAu1",
+        "name": "John Doe",
+        "isAvailable": true
+    },
+    {
+        "id": "D002",
+        "name": "Jane Smith",
+        "isAvailable": true
+    },
+    {
+        "id": "D003",
+        "name": "Alice Johnson",
+        "isAvailable": true
+    },
+    {
+        "id": "D004",
+        "name": "Bob Brown",
+        "isAvailable": false
+    },
+    {
+        "id": "D005",
+        "name": "Charlie Davis",
+        "isAvailable": true
+    },
+    {
+        "id": "D006",
+        "name": "Eva Green",
+        "isAvailable": false
+    },
+    {
+        "id": "D007",
+        "name": "Frank White",
+        "isAvailable": true
+    },
+    {
+        "id": "D008",
+        "name": "Grace Black",
+        "isAvailable": true
+    }
+]
